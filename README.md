@@ -1,7 +1,7 @@
 # GameEngine
 《游戏引擎原理与实践》课程仓库 - 沈琪川
+### 每次的作业在对应的branch里，老师可以切换branch查看、下载。
 * 01.游戏引擎架构
-  * [对游戏引擎架构的理解与简单分析](https://github.com/hnsqc98/GameEngine/tree/master/L1)
 * 02.游戏框架与脚本
 * 03.碰撞和物理（一）
 * 04.碰撞和物理（二）
