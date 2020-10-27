@@ -2,8 +2,8 @@
 ## 第三课作业：A类（冒险游戏）+B类（小球摆动）都做了
 ### A类作业的下载地址
 * Github文件略大，可前往百度网盘下载
-* 链接：https://pan.baidu.com/s/17tmotyHGkGa6b2ohQ6tZog 
-* 提取码：2d5p 
+* 链接：https://pan.baidu.com/s/1PUisudjJQr0pp-0TSlQ4pw 
+* 提取码：0cu3 
 ### A类作业-游戏玩法（详情见开发手记）
 * WASD/↑↓←→键控制人物移动
 * 鼠标移动控制视角变化
