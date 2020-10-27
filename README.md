@@ -4,7 +4,7 @@
 * Github文件略大，可前往百度网盘下载
 * 链接：https://pan.baidu.com/s/17tmotyHGkGa6b2ohQ6tZog 
 * 提取码：2d5p 
-### A类作业-游戏玩法
+### A类作业-游戏玩法（详情见开发手记）
 * WASD/↑↓←→键控制人物移动
 * 鼠标移动控制视角变化
 * 空格键跳跃
