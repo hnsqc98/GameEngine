@@ -1,5 +1,5 @@
 # 《游戏引擎原理与实践》-沈琪川
-## 第二课作业：3C游戏制作
+## 第二课作业：A类-3C游戏制作
 ### Tips
 * 共两个游戏，Github文件略大，若下载有问题，可前往百度网盘下载
 * 链接：https://pan.baidu.com/s/17tmotyHGkGa6b2ohQ6tZog 
