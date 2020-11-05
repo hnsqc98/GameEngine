@@ -1,9 +1,9 @@
 # 《游戏引擎原理与实践》-沈琪川
 ## 第二课作业：A类-3C游戏制作
 ## 交了两个游戏，老师可能只看了一个2D平台的，详情见开发手记.pdf
-### 百度网盘链接（源码+可执行文件）
-* 链接：https://pan.baidu.com/s/1gXkIuhTsqFFzXNPHIaEu_Q 
-* 提取码：qqvd 
+### 补充链接（两个游戏的源码+可执行文件）
+* 链接：https://pan.baidu.com/s/1_L1wxUJgUvlIGeEUL_9DdQ 
+* 提取码：gg0j 
 ### 文件说明
 * 3CGAME_in_3D：3D迷宫游戏。控制主角打倒怪物，触发机关，前往飞船即可获得胜利。
 * 3CGAME_in_2D：2D平台跳跃游戏。控制主角跳到最高处。
