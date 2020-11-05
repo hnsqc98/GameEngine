@@ -8,9 +8,9 @@
 * 演示视频2-用插件cloth实现布料模拟
 * 演示视频3-碰撞模拟的场景扩展
 ### 实现内容
-* 用插件springbone插件实现了布料模拟，包括设置springbone，springcolider等操作
+* 用插件springbone实现了布料模拟，包括设置springbone，springcolider等操作
 * 用插件cloth实现了布料模拟
-* 用插件Fractured&Destruction实现了小球爆裂碰撞效果，设定了内外不同的材质
+* 用插件Fractured&Destruction实现了小球爆裂效果，设定了内外不同的材质
 ### 文件位置
 * 布料模拟的scene位置：`Assets/IMDT/COURSE/Cloth/Characters/Scenes/homework-scene.unity`
   * 默认激活的为springbone的实现效果
