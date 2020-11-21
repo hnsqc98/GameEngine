@@ -1,0 +1,57 @@
+DDA Fog v1.01
+
+Demo video: https://youtu.be/BICEHqgASc0
+
+This asset can be used by attaching the DDA Fog script to your main camera and adjusting the settings through the inspector. The inspector combines the relevant fog controls from the scene lighting window and global fog image effect script, as well as some other useful parameters to help bring the sense of depth fog to the scene.
+
+•Camera Settings
+
+Control Main Camera: Allows the DDA Fog script to control the assigned camera's clear flags and background color settings.
+Clear Flags: Override to control the assigned camera's clear flags setting.
+Match Fog Color: Override to match the assigned camera's background color setting with the current fog color.
+Background: Override to control the assigned camera's background color setting.
+Main Camera: Assign a camera to control clear flags and background color settings.
+
+•Environment Lighting Settings
+
+Control Lighting: Allows this script to control the scene's ambient lighting, normally set in Window/Lighting/Environment Lighting.
+Ambient Mode: The source of the ambient light that shines into the scene.
+Ambient Color: The color used for the ambient light shining into the scene.
+Match Fog Color Ambient: Override to match the ambient lighting color setting with the current fog color.
+Sky Color: Ambient lighting coming from above.
+Equator Color: Ambient lighting coming from the sides.
+Ground Color: Ambient lighting coming from below.
+Ambient Intensity: How much the light from the Ambient Source affects the scene.
+
+•Fog Settings
+
+Control Fog: Override to control the scene's fog settings, normally set in Window/Lighting/Fog.
+Enable Fog: Enables fog.
+Min Level: Transform position for min fog level.
+Max Level: Transform position for max fog level.
+Lerp Axis: Axis used to lerp min and max position fog settings.
+Simulation Space: Transform simulation space that is referenced to control fog settings.
+Height Marker: Assign a height marker to have another transform in the scene control fog parameters.
+Fog Mode: Override to control the scene's fog mode, normally set in Window/Lighting/Fog.
+Min Level Density: Fog Density at or before min level position.
+Max Level Density: Fog Density at or after max level position.
+Min Level Fog Start: Linear Fog Density Start at or before min level position.
+Max Level Fog Start: Linear Fog Density Start at or after max level position.
+Min Level Fog End: Linear Fog Density End at or before min level position.
+Max Level Fog End: Linear Fog Density End at or after max level position.
+Fog Gradient: Gradient used between min and max positions.
+
+
+
+•Global Fog Image Effect Settings
+
+Use Global Fog: Enables global fog.
+Distance Fog: Apply distance-based fog.
+Exclude Far Pixels: Exclude far plane pixels from distance-based fog (Skybox or clear color).
+Use Radial Distance: Distance fog is based on radial distance from camera.
+Height Fog: Apply height-based fog.
+Height: Fog top y coordinate.
+Height Density: Density of fog height.
+
+
+For questions or comments please contact turnthegameon@gmail.com
