@@ -4,6 +4,7 @@
 * `Game_Can_Play`：打包后的可执行文件
 * `SQC_Karting`：工程文件
 * PDF：关于效果实现的总结分析
+* 演示视频
 ### 实现内容
 * 优化并调整了场景内的光照及阴影效果，使之画面表现力更强
 * 进行了场景后处理，调整了Ambient Occlusion、Bloom、Color Grading等属性，使之呈现出不同的画面效果；
