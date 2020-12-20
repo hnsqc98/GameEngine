@@ -1,0 +1,32 @@
+﻿Field UI - Complete Main Menu v1.2a
+--------------------------------------
+Contact me via:
+E-mail: isa.steam@outlook.com
+Discord: https://discord.gg/VXpHyUt
+YouTube: https://www.youtube.com/c/michsky
+Unity Connect: https://connect.unity.com/u/5992c13832b3060018eff44d
+Steam: https://steamcommunity.com/id/geezjesus/
+-----------------------------------------
+
+Important:  You'll have 2 missing scripts on your camera if you're not using
+PP v2. Use Post Processing Stack v2 if you want to see better looking UI :)
+There's a profile in package folder.
+
+
+Changelog v1.2a
+----------------
+• Improved mobile scene
+• Improved performance
+• Fixed panel animation bug
+----------------------------
+
+Changelog v1.1f
+----------------
+• Added new Multiplayer panels
+• Added ability to edit positions of splash screen elements
+• Added namespace to the scripts
+• Fixed shader warnings
+• Fixed infinite radial slider
+• Fixed chat scaling on different sizes
+• Fixed blur masking on some buttons
+-------------------------------------

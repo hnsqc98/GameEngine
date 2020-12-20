@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d39859638d01f2408b676367809c2fa
+timeCreated: 1473141822
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - heightMarker: {instanceID: 0}
+  - fogShader: {fileID: 4800000, guid: 6b3591f67418f504c8cca2bd2e571837, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
